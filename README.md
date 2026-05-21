@@ -121,7 +121,7 @@ The tool currently exploits the following CVEs:
 ```bash
 # 1. Clone repository
 git clone https://github.com/InMyMine7/Mephisto
-cd ExWP
+cd Mephisto
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -169,7 +169,7 @@ git --version
 **Option A: Using Git (Recommended)**
 ```bash
 git clone https://github.com/InMyMine7/Mephisto
-cd ExWP
+cd Mephisto
 ```
 
 **Option B: Manual Download**
@@ -241,7 +241,7 @@ git --version
 #### Step 4: Clone Repository
 ```bash
 git clone https://github.com/InMyMine7/Mephisto
-cd ExWP
+cd Mephisto
 ```
 
 #### Step 5: Create Virtual Environment (Recommended)
@@ -291,7 +291,7 @@ git --version
 #### Step 4: Clone Repository
 ```bash
 git clone https://github.com/InMyMine7/Mephisto
-cd ExWP
+cd Mephisto
 ```
 
 #### Step 5: Create Virtual Environment
@@ -353,14 +353,14 @@ docker run -it -v $(pwd)/Result:/app/Result inmymine7
 | **"Permission denied" on Linux** | Run `chmod +x main.py` |
 | **"pip: command not found"** | Use `pip3` instead of `pip` |
 | **Module import errors** | Run `pip install -r requirements.txt --force-reinstall` |
-| **No module named 'lib'** | Make sure you're in the ExWP directory |
+| **No module named 'lib'** | Make sure you're in the Mephisto directory |
 
 ---
 
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/InMyMine7/Mephisto
-cd ExWP
+cd Mephisto
 ```
 
 ### 2. Install Dependencies
@@ -482,7 +482,7 @@ All operations are logged with color-coded output:
 ## 📁 Project Structure
 
 ```
-ExWP/
+Mephisto/
 ├── main.py           # Main exploit orchestrator
 ├── config.json            # Configuration file
 ├── requirements.txt       # Python dependencies
