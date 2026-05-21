@@ -120,7 +120,7 @@ The tool currently exploits the following CVEs:
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/InMyMine7/InMyMine7.git
+git clone https://github.com/InMyMine7/Mephisto
 cd ExWP
 
 # 2. Install dependencies
@@ -168,7 +168,7 @@ git --version
 #### Step 3: Clone Repository
 **Option A: Using Git (Recommended)**
 ```bash
-git clone https://github.com/InMyMine7/InMyMine7.git
+git clone https://github.com/InMyMine7/Mephisto
 cd ExWP
 ```
 
@@ -240,7 +240,7 @@ git --version
 
 #### Step 4: Clone Repository
 ```bash
-git clone https://github.com/InMyMine7/InMyMine7.git
+git clone https://github.com/InMyMine7/Mephisto
 cd ExWP
 ```
 
@@ -290,7 +290,7 @@ git --version
 
 #### Step 4: Clone Repository
 ```bash
-git clone https://github.com/InMyMine7/InMyMine7.git
+git clone https://github.com/InMyMine7/Mephisto
 cd ExWP
 ```
 
@@ -359,7 +359,7 @@ docker run -it -v $(pwd)/Result:/app/Result inmymine7
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/InMyMine7/InMyMine7.git
+git clone https://github.com/InMyMine7/Mephisto
 cd ExWP
 ```
 
